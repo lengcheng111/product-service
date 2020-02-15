@@ -8,7 +8,7 @@ $ <sudo> docker build -t product-service .
 ```
 # run docker
 ```sh
-$<sudo> docker run product-service -d -p 9090:8080
+$<sudo> docker run product-service -d -p 9090:8181
 ```
 ### issue:
 1. as jdk.java.net saying: "no longer recommended for use in production", so we should have a plan to use other version
