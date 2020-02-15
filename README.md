@@ -1,6 +1,6 @@
 # Getting Started
 
-### clone from git: link
+### clone from git: https://github.com/lengcheng111/product-service.git
 # build image service
 ```sh
 $ cd product-service
