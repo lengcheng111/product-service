@@ -4,6 +4,7 @@
 # build image service
 ```sh
 $ cd product-service
+$ mvn 
 $ <sudo> docker build -t product-service .
 ```
 # run docker
